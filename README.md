@@ -2,7 +2,9 @@
 ### Welcome to my profile!👋
 
 ## Currently
-     🔭 Working as a Junior Software Developer at EcomSystems; a company specializing in creating, maintaining, and marketing Local Retailers throughout the US.
+
+     🔭 Working as a Junior Software Developer at EcomSystems; 
+     a company specializing in creating, maintaining, and marketing Local Retailers throughout the US.
         
      🌱 Certified Full Stack Web Developer from OSU Full Stack Web Development Bootcamp
      
