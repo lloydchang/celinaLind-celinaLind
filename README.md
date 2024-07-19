@@ -2,13 +2,13 @@
 ### Welcome to my profile!👋
 
 ## Currently
-
-     🔭 Working as a Junior Software Developer at EcomSystems; 
-     a company specializing in creating, maintaining, and marketing Local Retailers throughout the US.
+     Student at Western Governors University studying for my Bachelor of Science in Computer Science.
         
      🌱 Certified Full Stack Web Developer from OSU Full Stack Web Development Bootcamp
      
      🌱 Certified Flutter Mobile App Developer
+
+     🌱 Certified in GitHub Actions
      
      🌱 Received my Associate in Computer Science from Columbus State Community College
      
